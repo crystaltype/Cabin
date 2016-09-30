@@ -1,8 +1,5 @@
 {
-.appVersion = "913";
-DisplayStrings = (
-/dcroat
-);
+.appVersion = "924";
 copyright = "Copyright (c) 2011 The Cabin Project Authors (www.impallari.com impallari@gmail.com)";
 customParameters = (
 {
@@ -127,7 +124,7 @@ value = 250;
 },
 {
 name = winAscent;
-value = 965;
+value = 1047;
 }
 );
 descender = -250;
@@ -187,7 +184,7 @@ value = 250;
 },
 {
 name = winAscent;
-value = 965;
+value = 1047;
 }
 );
 descender = -250;
